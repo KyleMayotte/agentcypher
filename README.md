@@ -46,7 +46,7 @@ A microservices system: an agent API with session management, the two MCP intell
 
 ## My role
 
-Founder and builder. I designed the agent, the CTI tooling, the microservices architecture, the token-optimization layer, and the enterprise auth/tenancy model, and I run it in production with design partners.
+Founding engineer and builder. I designed the personalization agent, the CTI tooling, the microservices architecture, the token-optimization layer, and the enterprise auth/tenancy model, and I run it in production with design partners.
 
 ## Stack
 
