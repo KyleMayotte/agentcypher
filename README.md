@@ -10,7 +10,7 @@ CISOs drown in threat intelligence: thousands of articles a week, dozens of feed
 
 It synthesizes **40,000+ cyber news articles and 30+ threat feeds** into intelligence tailored to a specific organization — its sector, region, size, compliance regime, and security stack — and explains not just *what* the threats are but *why they matter to you*.
 
-**Landed 3 enterprise design partners: Magnetar, AutoZone, and Dykema.**
+**3 enterprise customers in the pipeline**
 
 ## What it looks like
 
