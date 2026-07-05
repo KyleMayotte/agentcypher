@@ -23,7 +23,7 @@ It synthesizes **40,000+ cyber news articles and 30+ threat feeds** into intelli
 **An agentic analyst, not a search box.** The system runs a research loop: it decomposes a question, pulls from multiple intelligence sources in parallel, reads deeply into the highest-signal results, and synthesizes a briefing. The screenshot above shows this in motion — deep research, live web search, and reasoning steps, transparently.
 
 **Intelligence tooling via MCP.** The agent's capabilities are exposed as Model Context Protocol tools:
-- **Deep Research** — vector search over a curated CTI corpus
+- **Deep Research** — hybrid retrieval over a curated CTI corpus: dense vector + lexical + trigram search fused with Reciprocal Rank Fusion (RRF), so the agent matches both intent and exact strings like CVE IDs
 - **PulseDive** — structured threat-indicator lookups (domains, IPs, actors)
 
 **Organization-aware.** Each tenant configures a profile (sector, regions, size, compliance, security stack) so intelligence is scored and framed for *their* risk, not generic feeds.
